@@ -14,6 +14,7 @@
 # Linguagens e tecnologias:
 -  HTML
 -  CSS
+-  C básico
 
 
 
