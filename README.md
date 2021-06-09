@@ -15,6 +15,7 @@
 -  HTML
 -  CSS
 -  C básico
+-  Javascript básico
 
 
 
