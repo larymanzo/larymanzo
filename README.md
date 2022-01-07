@@ -10,10 +10,6 @@
 - :speech_balloon: [Linkedin](https://www.linkedin.com/in/larissa-manzo/)
 
 
-# Linguagens e tecnologias:
-
-
-
 #
 
 [![Larissa Manzo's github stats](https://github-readme-stats.vercel.app/api?username=larymanzo&show_icons=true&theme=gruvbox)](https://github.com/larymanzo/github-readme-stats)
