@@ -6,7 +6,7 @@
 # Quem sou eu?
 - :mortar_board: Formada em Publicidade e propaganda pela Unip - Bauru
 - :books: Estudante de Análise e desenvolvimento de sistemas na Fatec - Ourinhos
-- :green_book: Estudante da [Trybe](https://www.betrybe.com)
+- :green_book: Formada na [Trybe](https://www.betrybe.com)
 - :speech_balloon: [Linkedin](https://www.linkedin.com/in/larissa-manzo/)
 
 
