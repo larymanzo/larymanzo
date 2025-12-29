@@ -9,7 +9,3 @@
 - :green_book: Formada em desenvolvimento web pela [Trybe](https://www.betrybe.com)
 - :speech_balloon: [Linkedin](https://www.linkedin.com/in/larissa-manzo/)
 
-
-
-[![Larissa Manzo's github stats](https://github-readme-stats.vercel.app/api?username=larymanzo&show_icons=true&theme=gruvbox)](https://github.com/larymanzo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larymanzo&show_icons=true&theme=gruvbox)](https://github.com/larymanzo/github-readme-stats)
